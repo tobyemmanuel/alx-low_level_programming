@@ -1,6 +1,6 @@
 /*
  * File: 7-print_tebahpla.c
- * Auth: Tobi 
+ * Auth: Tobi
  */
 
 #include <stdio.h>
